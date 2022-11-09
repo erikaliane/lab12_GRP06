@@ -20,7 +20,7 @@ public class OwnerServiceTest {
 	public void testFindOwnerById() {
 
 		long ID = 1;
-		String NAME = "Jaime";
+		String NAME = "George";
 		Owner owner = null;
 		
 		try {
